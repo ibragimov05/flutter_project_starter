@@ -1,2 +1,2 @@
 # flutter_project_starter
-Production ready template for flutter applications. 
+Production ready template for Flutter applications.
