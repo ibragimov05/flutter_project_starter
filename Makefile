@@ -25,5 +25,5 @@ fcg: ## Clean the project and get dependencies
 # ──────────────────────────────────
 .PHONY: fmt
 fmt: ## Format Dart code to line length 120
-	@dart format -l 120 lib/ test/ packages/
+	@dart format -l 120 lib/ test/ packages/ data/
 
